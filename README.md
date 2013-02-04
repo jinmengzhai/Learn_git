@@ -1,4 +1,5 @@
-someCode
+同步一些没什么用的代码，学习git的操作方法和管理理念。
 ========
 
-Some code.
+LineNumber.go 
+行号。
